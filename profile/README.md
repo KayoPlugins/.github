@@ -17,8 +17,9 @@
 
 ### 🚀 Nossos Projetos
 
-| Plugin | Edição | Descrição | Status |
-| :--- | :---: | :--- | :---: |
-| [**KayoSkills**](https://github.com/KayoPlugins/KayoSkills) | `Free & Premium` | Sistema completo de habilidades com física e animações 3D | 🟢 Ativo |
+| Plugin | Descrição | Versão | Compatibilidade | Links Oficiais |
+| :--- | :--- | :--- | :--- | :--- |
+| **⚔️ KayoSkills** | Sistema completo de progressão RPG de habilidades e atributos | `v1.0.0` | `1.20 - 1.21` | [SpigotMC](https://www.spigotmc.org/resources/authors/kayoba15_.html) • [GitHub](https://github.com/KayoPlugins/KayoSkills) |
+| **📦 KayoCrates** | Crates modulares, animação 3D Vault Drop e sistema Anti-Azar (Pity) | `v1.0.0` | `1.20 - 1.21` | [SpigotMC](https://www.spigotmc.org/resources/kayocrates.140482/) • [Releases](https://github.com/KayoPlugins/KayoCrates/releases) |
 
 </div>
